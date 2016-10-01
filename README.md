@@ -9,3 +9,5 @@ To run, do:
 java TestMotionDetection vfw://0 
 
 The vfw://0 is the URL for your camera. You can find out which URL you camera has by running JMFRegistry and looking for the value of JMF Registry Locator.
+
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/viz-charlie/messenger-ibm-hackathon)
